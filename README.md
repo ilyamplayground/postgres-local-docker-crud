@@ -1,2 +1,7 @@
 # postgres-local-docker-crud
-test code 
+test project to have some github practice and play around with local postgres docker image
+
+
+
+
+# setup project
